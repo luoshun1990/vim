@@ -1,0 +1,1 @@
+/home/luo/桌面/work_luo/vim/../vim
